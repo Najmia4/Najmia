@@ -12,29 +12,7 @@
 - **School:** Sains senior high school
 - **Year of Graduation:** 2026
 
-## Skills
-- Programming Languages: List of languages (e.g., Python, Java)
-- Technical Skills: List of technical skills (e.g., Web Development, Data Analysis)
-- Soft Skills: List of soft skills (e.g., Communication, Teamwork)
-
-## Projects
-### Project 1
-- **Title:** Project Title
-- **Description:** Project Description
-- **Technologies Used:** List of technologies used
-
-### Project 2
-- **Title:** Project Title
-- **Description:** Project Description
-- **Technologies Used:** List of technologies used
-
-## Certifications
-- Certification 1
-- Certification 2
-
 ## Interests
-- List of interests (e.g., Reading, Traveling, Coding)
-
----
-
-Feel free to customize the information based on your actual biodata. Markdown is a simple and easy-to-use markup language for creating formatted documents.
+- Reading
+- listen music
+- writting story
